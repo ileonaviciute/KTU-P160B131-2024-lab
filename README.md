@@ -2,7 +2,7 @@
 
 |Variantas | ecoActCode|Formatas          |
 |:---------|----------:|:-----------------|
-|999         |     11111111111|https://atvira.sodra.lt/imones/downloads/2023/monthly-2023.json.zip|
+|15        |     467300|https://atvira.sodra.lt/imones/downloads/2023/monthly-2023.json.zip|
 
 
 ### 2.1 Užduotis
